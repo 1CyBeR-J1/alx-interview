@@ -27,4 +27,4 @@ def isWinner(x, nums):
         return None
     if player1 * 2 > len(nums):
         return "Maria"
-    return "Ben"i
+    return "Ben"
