@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Module that contains the game func """
 
+
 def isWinner(x, nums):
     """Returns name of the player that won the most rounds"""
     if not nums or x < 1:
